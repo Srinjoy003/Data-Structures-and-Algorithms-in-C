@@ -1,0 +1,10 @@
+
+0 1 2   comparisons = 3
+0 1 2   comparisons = 2
+0 1 2   comparisons = 2
+0 1 2   comparisons = 2
+0 1 2   comparisons = 3
+0 1 2   comparisons = 2
+
+
+Average Comparisons : 2.333333
